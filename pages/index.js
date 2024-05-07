@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Next.js Hyperswitch!</title>
         <link rel="icon" href="/favicon.ico" />
         <script src="https://beta.hyperswitch.io/v1/HyperLoader.js" />
       </Head>

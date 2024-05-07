@@ -1,6 +1,6 @@
 async function initialize() {
   const stripe = Stripe(
-    "pk_test_51BTUDGJAJfZb9HEBwDg86TN1KNprHjkfipXmEDMb0gSCassK5T3ZfxsAbcgKVmAIXF7oZ6ItlZZbXO6idTHE67IM007EwQ4uN3"
+    "pk_test_51Gw6ujEFI6N5xFEBRAJXaTYE8Lflr8YVZsh7heVZZsu9rLDhr1K0Eae9ta2hmBxzRCSwJnbktkLbQrkMEMoQzSOB00U5GmpVs2"
   );
   var currentUrl = new URL(window.location.href);
 
